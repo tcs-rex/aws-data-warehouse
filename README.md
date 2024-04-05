@@ -67,7 +67,3 @@ ORDER BY u.gender, num_plays DESC
 LIMIT 10;
 """)
 ```
-
-### Results
-![Query Results ](explore_query_results.png)
-
